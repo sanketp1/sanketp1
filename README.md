@@ -5,8 +5,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanketp1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![wakatime](https://wakatime.com/badge/user/8bc7a88c-d81b-4d2e-95cd-12e128028abe.svg)](https://wakatime.com/@8bc7a88c-d81b-4d2e-95cd-12e128028abe)
-
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
