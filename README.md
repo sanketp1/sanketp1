@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyagizdo&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanketp1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![wakatime](https://wakatime.com/badge/user/8bc7a88c-d81b-4d2e-95cd-12e128028abe.svg)](https://wakatime.com/@8bc7a88c-d81b-4d2e-95cd-12e128028abe)
 
