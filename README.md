@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Digital Universe! 
+# 🚀 Welcome to My Universe! 
 
 <div align="center">
   <img src="https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/profile/IMG_20241221_185252.jpg" alt="Sanket Patil" width="200" style="border-radius: 50%; border: 4px solid #00d4ff;" />
